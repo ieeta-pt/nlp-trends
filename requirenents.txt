@@ -1,0 +1,11 @@
+click
+requests
+pandas
+lxml
+tqdm
+openai
+scipdf
+jellyfish
+pylatexenc
+PyPDF2
+nltk
