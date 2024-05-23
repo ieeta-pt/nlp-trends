@@ -10,7 +10,7 @@ The necessary `requirements.txt` file is provided for the necessary python depne
 
 ## Dataset Pre-Processing
 
-The dataset containing the various corpora is provided on (Zenodo)[https://zenodo.org/records/11222088], alternatively users can run our pipeline to create the corpus:
+The dataset containing the various corpora is provided on [Zenodo}(https://zenodo.org/records/11222088), alternatively users can run our pipeline to create the corpus:
 
 1. **Download papers**: In order to download the necessary papers used in this work, we provide the `download_from_acl.sh` bash script.
 2. **Parse PDF**: In order to convert the PDFs into human readable text, we provide the `pdf_to_json.py` file which converts the PDFs to parsed JSON representation.
